@@ -1,0 +1,15 @@
+1. dos창에서 아래 명령으로 websocket 서버 개발을 위한 패키지를 설치한다
+dos> npm install ws
+
+2. websocketechoserver.js를 mscode에서 실행한다
+
+3. websoketechoserver.html을 핸드폰에 저장 후 브라우저로 오픈한다
+
+4. 브라우저에서 문자열 입력해서 send를 하면
+   PC에서 문자열을 받아서 보여준다
+   그리고 PC의 websocketserver에서 문자열을 다시
+   핸드폰의 브라우저로 전송한다
+   
+5. 핸드폰의 브라우저는 문자열을 받아서 화면에 보여준다
+
+
